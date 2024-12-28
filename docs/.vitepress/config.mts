@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/PlumLanguage',
-  title: "Plum Script",
+  base: '/FoxLanguage',
+  title: "Fox Script",
   description: "高效、简单和朴实无华😊",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
