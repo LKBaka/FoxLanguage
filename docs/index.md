@@ -15,7 +15,7 @@ hero:
 
 features:
   - title: 🚀 简单
-    details: FoxScript参考大量的Python和VB代码设计简单的语法
+    details: FoxScript参考大量的Python和VB的简单的语法
   - title: 🔨 效率
     details: FoxScript通过动态类型为开发者省下各种繁琐时间、让开发者专注于灵感中
   - title: 🔐 轻量
@@ -43,9 +43,4 @@ features:
     --vp-home-hero-image-filter: blur(68px);
   }
 }
-</style>
-
-### 鸣谢
-
-感谢 **FoxScript开发者[FoxObject](https://space.bilibili.com/1775553323)** 给我提的诸多优化方案，使plum得以改进!
-
+</style> 
