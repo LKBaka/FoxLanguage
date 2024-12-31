@@ -25,6 +25,7 @@ export default defineConfig({
         text: '快速开始',
         items: [
           { text: '你好，世界！', link: '/快速开始/你好，世界！' },
+          { text: '基础语法', link: '/快速开始/基础语法' },
           { text: '数据类型', link: '/快速开始/数据类型' },
           { text: '变量', link: '/快速开始/变量' }
         ]

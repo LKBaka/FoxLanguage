@@ -19,7 +19,7 @@ features:
   - title: 🔨 效率
     details: FoxScript通过动态类型为开发者省下各种繁琐时间、让开发者专注于灵感中
   - title: 🔐 轻量
-    details: 如果您不介意。您甚至可以把FoxScript文件移动至U盘中使用，这不会占用太大空间
+    details: 如果您不介意。您甚至可以把FoxScript本体移动至U盘中使用，这不会占用太大空间
 ---
 
 
