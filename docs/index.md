@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Fox Script"
   image:
-    src: /img/FoxObject.png
+    src: /FoxObject.png
     alt: FoxObject
   tagline: 简单、效率、轻量
   actions:
