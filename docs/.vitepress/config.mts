@@ -13,7 +13,8 @@ export default defineConfig({
       {
         text: '当前发行版本',
         items: [
-          { text: "0.1", link: "https://www.123684.com/s/qvjrVv-HRkl" },
+          { text: "暂无",link: "#" }
+          // { text: "0.1", link: "https://www.123684.com/s/qvjrVv-HRkl" },
           /*{ text: "css", link: "/bigFrontEnd/css/" },
           { text: "js", link: "/bigFrontEnd/js/" },*/
         ]
