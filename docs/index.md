@@ -5,8 +5,8 @@ layout: home
 hero:
   name: "Fox Script"
   image:
-    src: /console.png
-    alt: Console
+    src: /img/FoxObject.png
+    alt: FoxObject
   tagline: 简单、效率、轻量
   actions:
     - theme: brand
